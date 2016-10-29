@@ -1,0 +1,6 @@
+C:\Users\LemonjaxDev\Desktop\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\LemonjaxDev\Desktop\Monitor\bin\Debug\Monitor.exe
+C:\Users\LemonjaxDev\Desktop\Monitor\bin\Debug\Monitor.pdb
+C:\Users\LemonjaxDev\Desktop\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\LemonjaxDev\Desktop\Monitor\obj\Debug\Monitor.exe
+C:\Users\LemonjaxDev\Desktop\Monitor\obj\Debug\Monitor.pdb
